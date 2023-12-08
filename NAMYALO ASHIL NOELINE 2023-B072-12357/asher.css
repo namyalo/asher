@@ -1,0 +1,20 @@
+<style>
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(0, 255, 64);
+}
+profile{
+    max-width: 800px;
+    margin: top 20px;
+    padding: 20px;
+    border:1px;
+}
+.profile h1{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.profile p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+<style/>
